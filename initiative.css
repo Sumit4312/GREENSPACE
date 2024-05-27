@@ -1,0 +1,53 @@
+html
+{
+    height: 100%;
+}
+body
+{
+    margin: 0%;
+    width: 100%;
+}
+img
+{
+    height: 80%;
+    width: 100%;
+}
+   
+.plant
+{
+    position: relative;
+   width: 100%;
+   height: 80%;
+   background:white;
+ 
+}
+
+.inner-text
+{
+    background: black;
+    position: relative;
+    color: white;
+  
+}
+
+
+.last-part{
+    position: relative;
+    margin: 40px;
+    margin-top: 250px;
+    padding-bottom: 20px;
+}
+.last-part h3
+{
+    position: relative;
+    font-weight: 400;
+    margin: 10px;
+    text-align: center;
+}
+.last-part h2
+{
+    position: relative;
+    font-weight: 800;
+    margin: 20px;
+    text-align: center;
+}

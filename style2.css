@@ -1,0 +1,84 @@
+html
+{
+    height: 100%;
+}
+body
+{
+    margin: 0%;
+    width: 100%;
+}
+.upper-part
+{
+    
+   position: relative;
+    text-align: center;
+    color: white;
+    background: url(/public/images/plant-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    /* height: 90%; */
+    padding-top: 290px;
+    padding-bottom: 70px;
+    /* margin-bottom: 30%; */
+}
+   
+.plant
+{
+    position: relative;
+   width: 30%;
+   height: 80%;
+   background: white;
+  margin-left: 35%;
+/* margin-bottom: 30px; */
+}
+.inner-plant
+{
+    position: relative;
+    background: url(/public/images/plant1.jpg);
+    width: 100%;
+    height: 40%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+.inner-text
+{
+    position: relative;
+    color: black;
+    margin: 20px;
+}
+.btn1
+{
+    position: relative;
+    margin: 10px;
+    width: 80%;
+    height: 10%;
+    background: black;
+}
+.social
+{
+    position: relative;
+    font-size: x-large;
+    color: black;
+}
+.social1
+{
+    margin: 10px;
+}
+.last-part{
+    margin: 40px;
+    padding-bottom: 20px;
+}
+.last-part h3
+{
+    font-weight: 400;
+    margin: 10px;
+    text-align: center;
+}
+.last-part h2
+{
+    font-weight: 800;
+    margin: 20px;
+    text-align: center;
+}

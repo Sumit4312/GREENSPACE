@@ -1,0 +1,249 @@
+html
+{
+    height: 100%;
+}
+body
+{
+    margin: 0%;
+    width: 100%;
+}
+
+
+.upper-part
+{
+    
+   position: relative;
+    text-align: center;
+    color: white;
+    background: linear-gradient(rgb(40, 42, 53, 0.90),rgba(40, 53, 44, 0.9)),url(/public/images/green.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 600px;
+}
+    
+
+.btn1
+{
+    background-color: transparent;
+    color: #fff;
+    border: 2px solid #04AA6D;
+    margin-right: 25px;
+    float: right;
+    cursor: pointer;
+    margin: 0;
+    font-family: Source Sans Pro,sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    white-space: nowrap;
+    position: relative;
+    height: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+}
+header
+{
+    
+    padding-bottom:100px ;
+    padding-top: 20px;
+    margin-right: 20px;
+}
+a
+{
+    color: white;
+}
+.material h1{
+    
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 44px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    /* font-family: Source Sans Pro; */
+    margin: 0;
+    color: #fff;
+}
+.material h2{
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-weight: lighter;
+    margin: 10px 0;
+    text-align: center;
+    width: 100%;
+    color:  white;
+    /* padding: 100px 10px; */
+}
+.hello
+{
+    position: relative;
+    background: black;
+    text-align: center;
+}
+.hello h2{
+    padding-top: 50px;
+    /* padding-bottom: 50px; */
+    font-size: 40px;
+    font-weight: light;
+    text-align: center;
+    width: 100%;
+    margin: 0%;
+    color:  white;
+}
+
+.middle-part
+{
+    /* display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 80px !important;
+    margin-right: 50px !important;
+    margin-top: 50px;
+    margin-bottom: 50px; */
+    /* margin: 10px; */
+    position: relative;
+    padding: 70px;
+    background: black;
+    align-items: center;
+ 
+}
+
+.plants
+{
+    position: relative;
+     text-align: center;
+    background: url(/public/images/plant-pic.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin: 20px;
+    width: 40%;
+    box-sizing: border-box;
+    display: inline-block;
+    margin: 40px;
+    
+    
+}
+.middle-part p{
+    color:  white;
+    background: linear-gradient(rgb(40, 42, 53, 0.90),rgba(102, 131, 114, 0.9));
+    margin-top: 230px;
+    padding: 20px;
+    font-size: 20px;
+    line-height: 1.17;
+}
+
+.home 
+{
+    
+    text-align: center;
+    background: url(/public/images/decor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    margin: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+    position: relative;
+    width: 40%;
+    margin: 40px;
+    /* float: right; */
+
+}
+
+.last-part
+{
+    position: relative;
+    /* background:black; */
+    background: white;
+    text-align: center;
+}
+.last-part h1{
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 44px;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    margin: 0;
+    color: black;
+    background: white;
+    
+}
+.btn2
+{
+    
+    background-color:  #04AA6D;
+    color: #fff;
+    border: 4px solid  #04AA6D;
+    cursor: pointer;
+    margin: 0;
+    font-size: 28px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    white-space: nowrap;
+    position: relative;
+    height: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 25px;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 50px;
+}
+.carousel
+{
+    text-align: center;
+    background:black;
+}
+.carousel-item
+{
+    text-align: center;
+    padding: 7% 15%;
+    color: #fff;
+}
+.testimonial-image
+{
+    border-radius: 100%;
+    width: 20%;
+    margin: 20px;
+}
+.h3
+{
+    background-color: black;
+    text-align: center;
+}
+.testimonial-image1
+{
+    /* border-radius: 100%; */
+    width: 20%;
+    margin: 20px;
+}
+#footer
+{
+    padding: 3.5% 10%;
+    text-align: center;
+    color: black;
+    background: white;
+}
+
+ .social
+{
+    font-size: x-large;
+margin:1%;
+color: black;
+}
